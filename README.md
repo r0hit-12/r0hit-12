@@ -20,7 +20,7 @@ Open to **Cloud, Scripting, Backend, and DevOps** roles.
 - **Languages:** Python, Bash  
 - **Version Control:** Git, GitHub  
 - **Operating Systems:** Linux (Ubuntu, CentOS)  
-- **Tools:** Vim, VS Code, Command Line  
+- **Tools:** Vim, VS Code, Command Line, Maven  
 - **Learning:** Docker, Ansible, AWS
 
 ---
