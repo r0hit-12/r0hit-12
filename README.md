@@ -2,7 +2,7 @@
 
 🎓 **B.Tech CSE (2021–2025)**  
 📍 New Delhi, India  
-📧 rohanbhattdec@email.com  
+📧 rohanbhattdec@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-bhatt-088732249) • [GitHub](https://github.com/r0hit-12)
 
 ---
